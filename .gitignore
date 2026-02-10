@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+.env
+
+# Datos (NUNCA subas CSVs de 100MB a GitHub)
+data/*.csv
+data/*.db
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
